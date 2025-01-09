@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogancankaygusuz&label=Profile%20views&color=0e75b6&style=flat" alt="dogancankaygusuz" /> </p>
 
-- 🌱 I’m currently learning **Unity, Python.**
+- 🌱 I’m currently learning **Kotlin, Unity, Python.**
 
-- 💬 Ask me about **Java, C, C++, SQL, Python.**
+- 💬 Ask me about **Java, C#, C++, SQL.**
 
 - 📫 How to reach me **dkaygusuz1025@gmail.com**
 
